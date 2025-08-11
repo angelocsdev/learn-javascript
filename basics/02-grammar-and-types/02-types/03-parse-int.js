@@ -1,2 +1,0 @@
-// parseInt(string, base)
-
